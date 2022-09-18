@@ -8,7 +8,7 @@ My Configs and Dotfiles for developing workflow for that tools:
 > | [NeoVim](https://github.com/neovim/neovim)
 > | [Tmux](https://github.com/tmux/tmux)
 
-## [NightTab - FireFox](https://github.com/AliKZ07/My_DotFiles/blob/main/nightTab/nightTab%20backup%20-%20red%20theme%20-%20firefox.json)
+## [NightTab - FireFox](https://github.com/AliKZ07/My_DotFiles/tree/main/nightTab)
 ![NightTab](https://raw.githubusercontent.com/AliKZ07/My_DotFiles/main/ScreenShots/Screenshot%20from%202022-09-18%2010-43-56.png)
 ## [Fish](https://github.com/AliKZ07/My_DotFiles/tree/main/fish) & [Tmux](https://github.com/AliKZ07/My_DotFiles/tree/main/tmux)
 ![Fish & Tmux](https://raw.githubusercontent.com/AliKZ07/My_DotFiles/main/ScreenShots/Screenshot%20from%202022-09-18%2010-46-52.png)
