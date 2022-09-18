@@ -15,4 +15,4 @@ My Configs and Dotfiles for developing workflow for that tools:
 ## [NeoVim](https://github.com/AliKZ07/My_DotFiles/tree/main/nvim)
 ![NeoVim Preview](./ScreenShots/Screenshot%20from%202022-09-18%2010-27-29.png)
 ![Run Terminal](./ScreenShots/Screenshot%20from%202022-09-18%2010-30-49.png)
-![Flouting Terminal](./ScreenShots/Screenshot%20from%202022-09-18%2010-39-45.png)
+![Flouting Terminal](https://raw.githubusercontent.com/AliKZ07/My_DotFiles/main/ScreenShots/Screenshot%20from%202022-09-18%2010-39-45.png)
