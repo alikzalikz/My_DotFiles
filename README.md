@@ -7,6 +7,7 @@ My Configs and Dotfiles for developing workflow for that tools:
 > | [Fish](https://github.com/fish-shell/fish-shell)
 > | [NeoVim](https://github.com/neovim/neovim)
 > | [Tmux](https://github.com/tmux/tmux)
+> | [firefox](https://github.com/mozilla/)
 
 ## [NightTab - FireFox](https://github.com/AliKZ07/My_DotFiles/tree/main/nightTab)
 ![NightTab](https://raw.githubusercontent.com/AliKZ07/My_DotFiles/main/ScreenShots/Screenshot%20from%202022-09-18%2010-43-56.png)
@@ -16,3 +17,5 @@ My Configs and Dotfiles for developing workflow for that tools:
 ![NeoVim Preview](https://raw.githubusercontent.com/AliKZ07/My_DotFiles/main/ScreenShots/Screenshot%20from%202022-09-18%2010-27-29.png)
 ![Run Terminal](https://raw.githubusercontent.com/AliKZ07/My_DotFiles/main/ScreenShots/Screenshot%20from%202022-09-18%2010-30-49.png)
 ![Flouting Terminal](https://raw.githubusercontent.com/AliKZ07/My_DotFiles/main/ScreenShots/Screenshot%20from%202022-09-18%2010-39-45.png)
+## [Firefox Conifg](https://github.com/AliKZ07/My_DotFiles/tree/main/firefox)
+![Firefox](https://raw.githubusercontent.com/AliKZ07/My_DotFiles/main/ScreenShots/Screenshot%20(5).png)
